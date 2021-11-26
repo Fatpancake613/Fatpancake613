@@ -1,4 +1,4 @@
 # Why should I make a readme about myself? I shouldn't.
-I am FatPancake613 and nobody likes me
+Never thought I would update this. I am FatPancake613 and I code mostly Python and Node.js.
 
-I know like barely anything of Unity C# and a good chunk of python and some nodejs, I am learning C/C++ and thats it ok bye
+I am one of the "junior" coders which also explains why I am not good at coding. 
